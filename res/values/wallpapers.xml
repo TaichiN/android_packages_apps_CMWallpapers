@@ -42,6 +42,12 @@
         <item>wallpaper_jai_cmskateteam</item>
         <item>wallpaper_jai_cmwoodedbg</item>
         <item>wallpaper_boobies</item>
+        <item>wallpaper_rascarlo_somany2androids_cyan</item>
+        <item>wallpaper_rascarlo_somanyandroids_cyan</item>
+        <item>wallpaper_rascarlo_somany2androids_purple</item>
+        <item>wallpaper_rascarlo_somanyandroids_purple</item>
+        <item>wallpaper_rascarlo_somany2androids_pink</item>
+        <item>wallpaper_rascarlo_somanyandroids_pink</item>
     </string-array>
 
     <string-array name="info" translatable="false">
@@ -70,5 +76,11 @@
         <item>Skate Team :: JaiThemes</item>
         <item>Wooded :: JaiThemes</item>
         <item>Yeah, that. :: Hans Stieglitz, CC, modified by arcee</item>
+        <item>So Many Many Androids Cyan :: rascarlo</item>
+        <item>So Many Androids Cyan :: rascarlo</item>
+        <item>So Many Many Androids Purple :: rascarlo</item>
+        <item>So Many Androids Purple :: rascarlo</item>
+        <item>So Many Many Androids Pink :: rascarlo</item>
+        <item>So Many Androids Pink :: rascarlo</item>
     </string-array>
 </resources>

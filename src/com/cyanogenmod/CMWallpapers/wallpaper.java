@@ -75,8 +75,8 @@ public class wallpaper extends Activity implements AdapterView.OnItemSelectedLis
     }
 
     private void findWallpapers() {
-        mThumbs = new ArrayList<Integer>(24);
-        mImages = new ArrayList<Integer>(24);
+        mThumbs = new ArrayList<Integer>(30);
+        mImages = new ArrayList<Integer>(30);
 
         final Resources resources = getResources();
         final String packageName = getApplication().getPackageName();
